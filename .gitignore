@@ -127,3 +127,14 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# OSX Specific
+.DS_Store
+
+# editor
+*.code-workspace
+
+# sensitive data
+*.csv
+*.xlsx
